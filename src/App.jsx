@@ -15,7 +15,7 @@ import ResetPassword from "./pages/ResetPassword";
 import Home from "./pages/Home";
 import CategoryProducts from "./pages/CategoryProducts";
 import ProductDetails from "./pages/ProductDetails";
-import Wishlist from "./pages/WishList";
+import Wishlist from "./pages/Wishlist";
 import Footer from "./components/Footer";
 
 function AppLayout() {
